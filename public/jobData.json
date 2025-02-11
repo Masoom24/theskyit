@@ -1,0 +1,65 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "I.T",
+        "image": "/images/frontend-developer.jpg",
+        "viewMoreLink": "/jobs/frontend-developer"
+      },
+      {
+        "id": 2,
+        "title": "Banking",
+        "image": "/images/backend-developer.jpg",
+        "viewMoreLink": "/jobs/backend-developer"
+      },
+      {
+        "id": 3,
+        "title": "Chemical",
+        "image": "/images/ui-ux-designer.jpg",
+        "viewMoreLink": "/jobs/ui-ux-designer"
+      },
+      {
+        "id": 4,
+        "title": "Engineering",
+        "image": "/images/data-scientist.jpg",
+        "viewMoreLink": "/jobs/data-scientist"
+      },
+      {
+        "id": 5,
+        "title": "Fertilizer",
+        "image": "/images/devops-engineer.jpg",
+        "viewMoreLink": "/jobs/devops-engineer"
+      },
+      {
+        "id": 6,
+        "title": "Fire & Safety",
+        "image": "/images/product-manager.jpg",
+        "viewMoreLink": "/jobs/product-manager"
+      },
+      {
+        "id": 7,
+        "title": "Infrastructure",
+        "image": "/images/digital-marketing.jpg",
+        "viewMoreLink": "/jobs/digital-marketing-specialist"
+      },
+      {
+        "id": 8,
+        "title": "Logistic",
+        "image": "/images/mobile-developer.jpg",
+        "viewMoreLink": "/jobs/mobile-app-developer"
+      },
+      {
+        "id": 9,
+        "title": "Manufacturing",
+        "image": "/images/sales-manager.jpg",
+        "viewMoreLink": "/jobs/sales-manager"
+      },
+      {
+        "id": 10,
+        "title": "Mining",
+        "image": "/images/fullstack-developer.jpg",
+        "viewMoreLink": "/jobs/full-stack-developer"
+      }
+    ]
+  }
+  
